@@ -37,3 +37,13 @@ Cosine similarity is commonly used in information retrieval and text mining to c
 8. pickle
 
 
+
+# Make some changes to the code you just cloned and deploy them to Heroku using Git.
+
+$ git add .
+$ git commit -am "make it better"
+$ git push heroku master
+
+# Deployment method 
+ 
+Deploying using AWS "ec2-15-206-70-92.ap-south-1.compute.amazonaws.com:8501"
